@@ -79,8 +79,12 @@ I want to major in chemical engineering.
                 return "Hint: It often comes with pepperoni or veggies on top.";
             case 2:
                 return "Hint: You can get it from places like Domino's or Pizza Hut.";
+            case 3: 
+                return "Hint: There are 2 z's in the word";
+            case 4: 
+                return "Hint: It is shaped like a triangle"; 
             default: 
-                return " "
+                return "No more hints for you";
         }
     }
 </script>

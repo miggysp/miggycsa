@@ -3,37 +3,73 @@ layout: default
 title: Miheer's Blog
 remote_theme: pages-themes/hacker@v0.2.0
 ---
----
-layout: default
-title: Miheer's Blog
-remote_theme: pages-themes/hacker@v0.2.0
----
 
 <style>
+    /* Set the background to dark and text to light colors for contrast */
     body {
-        background-color: #FFFFFF;
+        background-color: #1a1a1a;
+        color: #f0f0f0;
+        font-family: 'Courier New', Courier, monospace;
     }
+
     h1#miheers-page {
-        color: orange;
-        font-size: 45px;
+        color: #ff6347;
+        font-size: 55px;
         text-align: center;
-    }
-    p {
-        color: black;
-    }
-    #name-game, #hobby-game, #tv-show-game {
-        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 5px;
         margin-top: 20px;
     }
-    .game-display {
-        font-size: 24px;
-        letter-spacing: 10px;
-        font-weight: bold;
+
+    p, h2 {
+        color: #c0c0c0;
+        line-height: 1.6;
     }
+
+    h2 {
+        font-size: 36px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    /* Button and input styling */
     button, input[type="text"] {
-        padding: 10px 20px;
-        font-size: 16px;
+        padding: 12px 24px;
+        font-size: 18px;
+        background-color: #333;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
         margin-top: 10px;
+        transition: background-color 0.3s ease;
+    }
+
+    button:hover, input[type="text"]:hover {
+        background-color: #555;
+    }
+
+    /* Centering and spacing for game sections */
+    #name-game, #hobby-game, #tv-show-game {
+        text-align: center;
+        margin: 40px auto;
+        width: 60%;
+        padding: 20px;
+        background-color: #262626;
+        border-radius: 10px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
+    }
+
+    .game-display {
+        font-size: 28px;
+        letter-spacing: 8px;
+        font-weight: bold;
+        color: #ff4500;
+    }
+
+    iframe {
+        display: block;
+        margin: 30px auto;
+        border: 5px solid #444;
     }
 </style>
 

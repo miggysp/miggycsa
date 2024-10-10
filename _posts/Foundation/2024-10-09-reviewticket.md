@@ -22,10 +22,10 @@ comments: True
 | **Skill**                  | **Points**    | **Grade** | **Evidence** |
 |----------------------------|---------------|-----------|--------------|
 | Work Habits (Analytics)    |   1           |  0.90     | My team teach group was pretty big so I wasn't able to contribute as much as I would have wanted to, however I made up for this by creating an animation so I could have unique contribution.  [Personal Commits](https://drive.google.com/file/d/1qEAoxmmblHuvYLHBuEZ77YAzQV3oeCru/view?usp=sharing) [Team Teach](https://drive.google.com/file/d/1fAbAo1NLBVpWgAaqW6ytFI-yx1xPmi6A/view?usp=sharing) |
-| Team Planning (Issue)      |   1           |  0.90     | [Team Planning](https://docs.google.com/document/d/1HmLY5Y8AhCI-ywkJN--SPko2PLmuIy6ZeAN53ms-5Vw/edit?usp=sharing)    |
+| Team Planning (Issue)      |   1           |  0.90     | We created a shared google doc with a complete plan of our entire team teach. This made it very easy to take the step into creating the notebooks as we already knew what to write. Animation wasn't planned therefore reflected. [Team Planning](https://docs.google.com/document/d/1HmLY5Y8AhCI-ywkJN--SPko2PLmuIy6ZeAN53ms-5Vw/edit?usp=sharing)    |
 | Presentation Memories      |   1           |  0.90     |  During our team teach we all bonded over how much better the one we were working on was than the ones we made last year. It perfectly showed how we as CS students have grown from CSP to CSA. We made a group chat that even after our team teach and splitting groups we still use to talk about things.            |
-| Grading and Feedback       |   1           |   0.90    | [Grading](https://docs.google.com/spreadsheets/d/1SLxMPSwAvMJ70X8zk0H9UwJXmyqYC2hpS6DJrjmEX2g/edit?gid=988447649#gid=988447649)          |
-| Beyond Perfunctory         |   1           |  0.90     | [Animation](https://drive.google.com/file/d/1peRtnTEDCwplS-UlPHwBCr4ZQjbwe4DX/view?usp=sharing)             | 
+| Grading and Feedback       |   1           |   0.90    | We graded fairly, on the scale that you specified that we should. Meeting expectations perfectly, gave a 0.9. 0.91-2 for extra work and participation, stellar work was 0.95[Grading](https://docs.google.com/spreadsheets/d/1SLxMPSwAvMJ70X8zk0H9UwJXmyqYC2hpS6DJrjmEX2g/edit?gid=988447649#gid=988447649)          |
+| Beyond Perfunctory         |   1           |  0.90     |I created an eye-catching javascript animation that visualized the power of iterations [Animation](https://drive.google.com/file/d/1peRtnTEDCwplS-UlPHwBCr4ZQjbwe4DX/view?usp=sharing)             | 
 | Total                      |   5           |  0.90    |              |
 
 
@@ -42,3 +42,6 @@ comments: True
         async>
     </script>
 <body>
+
+
+

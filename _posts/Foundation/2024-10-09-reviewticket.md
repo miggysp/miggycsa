@@ -43,3 +43,17 @@ comments: True
 | Grading Plan            | 10            | 9       | Clearly outlined grading criteria and followed it                |
 | Original an Creative    | 10            | 8       | Very nice animation, however your animation is not very nice |
 | Total                  | 90        |           |              |
+
+
+
+
+body>
+    <!-- Utteranc.es comment section -->
+    <script src="https://utteranc.es/client.js"
+        repo="miggysp/miggycsa"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+    </script>
+<body>

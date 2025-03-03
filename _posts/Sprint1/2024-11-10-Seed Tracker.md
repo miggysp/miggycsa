@@ -39,13 +39,16 @@ Score management:
 scores object stores the scores for each category (Seed Starter, Classroom Conduct, etc.).
 adjustScore(id, change) is used to increase or decrease the score for each category. The score is updated with the changes and displayed.
 updateTotalSeed() is called to update the total score based on the individual category scores.
+
 Modal interaction:
 
 openModal(id) and closeModal(id) control the visibility of each modal. When a button is clicked, it triggers openModal with the respective modal ID (e.g., seedStarterModal).
 The modal allows the user to adjust scores for each category using buttons like +1.0, +0.5, etc.
+
 Form Submission:
 
 submitEntry() sends the student's data (ID, name, subject, activity log, and score) to a backend server via a POST request. It uses fetch to send the data to a Java backend (localhost:8085/api/seeds/). If successful, the entry ID is shown on the page.
+
 Backend Connection:
 
 The testBackendConnection() function checks if the backend is working by sending a GET request to localhost:8085/api/seeds/. It logs the result in the console.

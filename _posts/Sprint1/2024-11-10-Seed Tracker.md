@@ -12,7 +12,7 @@ comments: True
 
 ## Introduction
 
-Seed Tracker is an intelligent grading and progress-tracking system designed to help students and teachers monitor academic performance efficiently. Using automated data analysis and real-time feedback, Seed Tracker ensures that students stay on top of their learning progress.
+Seed Tracker is a grading and progress-tracking system designed to help students and teachers monitor academic performance efficiently. 
 
 ## Key Features
 
@@ -65,3 +65,6 @@ adjustScore(id, change): This is the core function to update scores.
 submitEntry(): Handles submitting the form and sending the data to the server.
 openModal(id) and closeModal(id): Control opening and closing the modals for score adjustment.
 testBackendConnection(): Tests if the backend is available by sending a GET request.
+
+
+

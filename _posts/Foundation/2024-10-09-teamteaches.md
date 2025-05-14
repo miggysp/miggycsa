@@ -5,6 +5,11 @@ courses: {'csa': {'week': 6}}
 type: ccc
 comments: True
 ---
+# Post AP Notes: 
+Struggled a lot on 
+
+
+
 
 # My Team Teach Experience 
 Overall, doing a team teach, and listening to all the others was a very enjoyable experience. I can see the difference in the level of team teaches compared to last year, as people are going way more above and beyond. I feel far more interested in what my peers are saying and I also think everyone's teaching ability got better too. 
